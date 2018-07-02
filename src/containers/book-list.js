@@ -15,7 +15,7 @@ class BookList extends Component{
                 {book.title}
             </li>
            );
-       })
+       });
    } 
     
     render() {
